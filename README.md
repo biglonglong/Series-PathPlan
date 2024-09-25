@@ -1,5 +1,21 @@
 ## Overview
 This repository replicates some  common path planning algorithms used in robotics, including search-based, sampling-based, group intelligence, reinforcement learning, and curves generator. We designed animations for each algorithm to demonstrate its operation.
+- [Overview](#overview)
+- [Search-based Planning](#search-based-planning)
+  - [BFS \& DFS](#bfs--dfs)
+  - [Best-First \& Dijkstra](#best-first--dijkstra)
+  - [A\* and A\* Variants](#a-and-a-variants)
+  - [D\* and D\* Variants](#d-and-d-variants)
+  - [Hybrid A\* and other Importance](#hybrid-a-and-other-importance)
+- [Sampling-based Planning](#sampling-based-planning)
+  - [RRT and RRT Variants](#rrt-and-rrt-variants)
+- [Group Intelligence Optimization](#group-intelligence-optimization)
+  - [genetic](#genetic)
+  - [ACO](#aco)
+  - [particle swarm](#particle-swarm)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Curves Generator](#curves-generator)
+- [Reference](#reference)
 
 
 
