@@ -1,5 +1,5 @@
 ## Overview
-This repository replicates some  common path planning algorithms used in robotics, including search-based, sampling-based, group intelligence, reinforcement learning, and curves generator. Moreever, it designed animations for each algorithm to demonstrate its operation.
+This repository replicates some  common path planning algorithms used in robotics, including search-based, sampling-based, group intelligence, reinforcement learning, and curves generator. Morever, it designed animations for each algorithm to demonstrate its operation.
 - [Overview](#overview)
 - [Search-based Planning](#search-based-planning)
   - [BFS \& DFS](#bfs--dfs)
