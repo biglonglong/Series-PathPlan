@@ -1,5 +1,6 @@
 ## Overview
 This repository replicates some  common path planning algorithms used in robotics, including search-based, sampling-based, group intelligence, reinforcement learning, and curves generator. Morever, it designed animations for each algorithm to demonstrate its operation.
+referencing [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning), but code was refactored.
 - [Overview](#overview)
 - [Search-based Planning](#search-based-planning)
   - [BFS \& DFS](#bfs--dfs)
@@ -117,10 +118,3 @@ This repository replicates some  common path planning algorithms used in robotic
 
 …
 
-
-
-## Reference
-
-> [zhm-real/PathPlanning](https://github.com/zhm-real/PathPlanning) 
-
-- …
